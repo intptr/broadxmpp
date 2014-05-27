@@ -1,0 +1,6 @@
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\bin\Debug\NetXmpp.exe
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\bin\Debug\NetXmpp.pdb
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\bin\Debug\agsXMPP.dll
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\obj\x86\Debug\NetXmpp.exe
+D:\source\broadsoft\NetXmpp\NetXmpp\NetXmpp\obj\x86\Debug\NetXmpp.pdb
